@@ -7,3 +7,4 @@ This website is for data visualization coursework and project links.
 ### CSC 362 Data Visualization
 
 - [Lab 7 - Linked Bar Chart and Scatterplot](trails-skeleton/index.html)
+- [Data Viz Final](data-viz-final)
